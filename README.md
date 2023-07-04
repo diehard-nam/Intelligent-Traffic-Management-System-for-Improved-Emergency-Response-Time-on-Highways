@@ -1,9 +1,5 @@
 # Intelligent Traffic Management System for Improved Emergency Response Time on Highways
 
-## **Introduction**
-
-This repository represents the experiment for the Intelligent Traffic Management System for Improved Emergency Response Time on Highways. Two techniques were applied for this project: Computer vision technique and Deep learning techniques. The purpose of this project is to create a intelligent traffic management system that will improved emergency response time on highways.
-
 ## **Dataset**
 
 The dataset is CDNET can be downloaded from [here](http://jacarini.dinf.usherbrooke.ca/dataset2014). This dataset contains 11 video categories with 4 to 6 videos sequences in each category. However, we only used 8 video sequeces. They are: busStation, canoe, fountain02, highway, office, park, peopleInShade, sidewalk. Each individual video file (.zip or .7z) can be downloaded separately. Alternatively, all videos files within one category can be downloaded as a single .zip or .7z file. Each video file when uncompressed becomes a directory which contains the following:
